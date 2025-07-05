@@ -1,0 +1,17 @@
+site_name: IT Helpdesk Knowledge Base
+site_description: Beginner-friendly IT support guides for self-service
+repo_url: https://github.com/TaszidChowdhury/it-support-knowledge-base
+repo_name: GitHub
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Setting Up a New Laptop: setting-up-new-laptop.md
+  - Resetting Your Password: resetting-password.md
+  - Connecting to Wi-Fi: connecting-to-wifi.md
+  - Installing Slack: installing-slack.md
+  - Installing Zoom: installing-zoom.md
+  - Setting Up Google Workspace: setting-up-google-workspace.md
+  - Configuring MFA: configuring-mfa.md 

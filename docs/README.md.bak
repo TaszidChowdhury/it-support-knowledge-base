@@ -1,0 +1,28 @@
+# IT Helpdesk Knowledge Base
+
+This is a simple, beginner-friendly IT Helpdesk Knowledge Base website built with Markdown and designed for self-service use. It includes step-by-step guides for common IT support tasks.
+
+## Guides Included
+- Setting up a new laptop
+- Resetting a password
+- Connecting to Wi-Fi
+- Installing Slack
+- Installing Zoom
+- Setting up Google Workspace
+- Configuring Multi-Factor Authentication (MFA)
+
+## How to Publish with GitHub Pages
+1. **Push this repository to GitHub.**
+2. **Go to your repository settings on GitHub.**
+3. **Scroll to the "Pages" section.**
+4. **Set the source branch to `main` and the folder to `/root` or `/docs` (if you move files).**
+5. **Save.**
+6. **Your site will be published at `https://<your-username>.github.io/<repo-name>/`.**
+
+## Customization
+- Add or edit Markdown files to update the knowledge base.
+- Update `index.md` to change the home page or add new guides.
+
+---
+
+For questions or help, contact your IT administrator. 
